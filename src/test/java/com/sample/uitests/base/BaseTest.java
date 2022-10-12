@@ -1,7 +1,7 @@
-package com.sample.api.base;
+package com.sample.uitests.base;
 
-import com.sample.api.logger.Log;
-import com.sample.api.utils.ExcelUtility;
+import com.spample.webAndApi.logger.Log;
+import com.spample.webAndApi.utils.ExcelUtility;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
@@ -31,10 +31,7 @@ public class BaseTest {
 
     }
 
-    @AfterMethod(alwaysRun = true)
-    public void afterEachMethod(ITestResult testResult) {
 
-    }
 
 
     @AfterSuite(alwaysRun = true)

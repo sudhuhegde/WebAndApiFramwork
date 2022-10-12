@@ -1,4 +1,4 @@
-package webAndApi.utils;
+package com.spample.webAndApi.utils;
 
 public class DataProviderIndex {
 	public int index;

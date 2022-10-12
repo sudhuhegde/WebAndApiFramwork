@@ -1,4 +1,4 @@
-package webAndApi.file;
+package com.spample.webAndApi.file;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.StringWriter;
 
-import com.sample.api.logger.Log;
+import com.spample.webAndApi.logger.Log;
 import org.apache.commons.io.IOUtils;
 
 

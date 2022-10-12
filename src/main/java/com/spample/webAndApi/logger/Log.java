@@ -1,6 +1,6 @@
-package webAndApi.logger;
+package com.spample.webAndApi.logger;
 
-import java.util.Formatter;
+
 
 import org.apache.log4j.Logger;
 

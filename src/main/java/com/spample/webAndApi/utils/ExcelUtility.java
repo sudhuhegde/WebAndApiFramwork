@@ -1,9 +1,8 @@
-package webAndApi.utils;
+package com.spample.webAndApi.utils;
 
 import java.io.InputStream;
 
-
-import com.sample.api.logger.Log;
+import com.spample.webAndApi.logger.Log;
 import jxl.Cell;
 import jxl.Sheet;
 import jxl.Workbook;

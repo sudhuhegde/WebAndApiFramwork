@@ -1,7 +1,8 @@
-package webAndApi.restservice;
+package com.spample.webAndApi.restservice;
 
-import com.sample.api.restservice.abstraction.APIResponse;
 
+
+import com.spample.webAndApi.restservice.abstraction.APIResponse;
 import io.restassured.response.Response;
 
 public class RestAPIResponse extends APIResponse {

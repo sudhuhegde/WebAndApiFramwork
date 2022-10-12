@@ -1,4 +1,4 @@
-package webAndApi.utils;
+package com.spample.webAndApi.utils;
 
 import java.security.SecureRandom;
 import java.util.HashSet;

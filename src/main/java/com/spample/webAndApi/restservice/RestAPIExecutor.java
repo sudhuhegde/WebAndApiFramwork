@@ -1,12 +1,11 @@
-package webAndApi.restservice;
+package com.spample.webAndApi.restservice;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.sample.api.restservice.abstraction.APIExecutor;
-import com.sample.api.restservice.abstraction.APIResponse;
-
-import com.sample.api.logger.Log;
+import com.spample.webAndApi.logger.Log;
+import com.spample.webAndApi.restservice.abstraction.APIExecutor;
+import com.spample.webAndApi.restservice.abstraction.APIResponse;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.http.Header;

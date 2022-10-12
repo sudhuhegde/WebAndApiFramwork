@@ -1,4 +1,4 @@
-package com.sample.api.base;
+package com.sample.uitests.base;
 
 import java.io.IOException;
 import java.util.Properties;

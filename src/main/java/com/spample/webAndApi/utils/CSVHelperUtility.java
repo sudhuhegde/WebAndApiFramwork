@@ -1,8 +1,8 @@
-package webAndApi.utils;
+package com.spample.webAndApi.utils;
 
 
 
-import com.sample.api.logger.Log;
+import com.spample.webAndApi.logger.Log;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

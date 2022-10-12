@@ -1,4 +1,4 @@
-package webAndApi.restservice.abstraction;
+package com.spample.webAndApi.restservice.abstraction;
 
 import java.util.HashMap;
 import java.util.Map;

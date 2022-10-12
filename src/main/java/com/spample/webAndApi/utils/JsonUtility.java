@@ -1,4 +1,4 @@
-package webAndApi.utils;
+package com.spample.webAndApi.utils;
 
 import java.io.File;
 import java.io.IOException;
@@ -6,13 +6,12 @@ import java.io.InputStream;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
-
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.util.DefaultPrettyPrinter;
 import com.fasterxml.jackson.databind.*;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import com.sample.api.file.FileReader;
+import com.spample.webAndApi.file.FileReader;
 import groovy.json.StringEscapeUtils;
 
 

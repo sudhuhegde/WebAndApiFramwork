@@ -1,4 +1,4 @@
-package webAndApi.file;
+package com.spample.webAndApi.file;
 
 import java.io.IOException;
 import java.io.InputStream;

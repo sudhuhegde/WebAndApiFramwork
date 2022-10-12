@@ -1,7 +1,7 @@
-package webAndApi.restservice.abstraction;
+package com.spample.webAndApi.restservice.abstraction;
 
-import com.sample.api.restservice.RestAPIExecutor;
-import com.sample.api.restservice.abstraction.APIResponse;
+
+import com.spample.webAndApi.restservice.RestAPIExecutor;
 
 import java.util.Map;
 
